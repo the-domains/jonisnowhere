@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jonisnowhere]]></title>
-        <description><![CDATA[jonisnowhere]]></description>
+        <title><![CDATA[republic of neurons]]></title>
+        <description><![CDATA[republic of neurons]]></description>
         <link>https://thegrid.ai/jonisnowhere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 21:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 23:53:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonisnowhere/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[title 3]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57be39f8-887a-4e5a-b4c5-b91e0e8fcf1f.jpg">]]></description>
             <link>https://thegrid.ai/jonisnowhere/44e35dba-3643-498c-900e-b1d3d7bb1715/index.html</link>
             <guid isPermaLink="false">44e35dba-3643-498c-900e-b1d3d7bb1715</guid>
-            <pubDate>Tue, 09 Feb 2016 20:24:20 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 23:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
