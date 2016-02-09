@@ -1,6 +1,6 @@
 name: jonisnowhere
 favicon: null
-layout_spectrum: 0.002180904382839799
+layout_spectrum: 0
 typography_spectrum: 0.8503450681455433
 title: part-time flaneur
 cta:
@@ -22,8 +22,8 @@ color:
     - '#080a0d'
     - '#49536f'
     - '#b1c7e8'
-  brandStrength: 0.2962518138810992
+  brandStrength: 0.125
   lightness: 0.6021965448744595
-  saturation: 0.8659401691984385
+  saturation: 0.375
   rhythmicContrast: 0.4215357485227287
 purpose: []
