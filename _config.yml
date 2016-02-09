@@ -1,7 +1,7 @@
 name: part-time flaneur
 favicon: null
 layout_spectrum: 0.70017
-typography_spectrum: 0.46509
+typography_spectrum: 0.32941
 title: republic of neurons
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
