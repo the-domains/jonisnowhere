@@ -1,4 +1,4 @@
-name: part-time flaneur
+name: jonisnowhere
 favicon: null
 layout_spectrum: 0.70017
 typography_spectrum: 0.32941
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#262b39'
-    - '#080a0d'
-    - '#49536f'
-    - '#b1c7e8'
+    - '#fbfbfb'
+    - '#0f0f0f'
+    - '#75889e'
+    - '#555555'
+    - '#ca6c33'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
