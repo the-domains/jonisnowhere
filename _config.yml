@@ -1,6 +1,6 @@
 name: jonisnowhere
 favicon: null
-layout_spectrum: 0.50508
+layout_spectrum: 0.71949
 typography_spectrum: 0.32941
 title: republic of neurons
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fbfbfb'
-    - '#0f0f0f'
-    - '#75889e'
-    - '#555555'
-    - '#ca6c33'
-  brandStrength: 0.5
+    - '#ffffff'
+    - '#02070e'
+    - '#c3d2e7'
+    - '#736f77'
+    - '#2d3237'
+  brandStrength: 0.5625
   lightness: 0.5625
   saturation: 0.75
   rhythmicContrast: 0.25
