@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T03:28:31.720Z'
-dateModified: '2016-02-11T03:28:21.969Z'
+datePublished: '2016-02-16T22:41:07.653Z'
+dateModified: '2016-02-16T22:41:05.969Z'
 title: 'december, a nausea'
 author: []
+sourcePath: _posts/2016-02-11-december-a-nausea.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-december-a-nausea.md
-published: true
 url: december-a-nausea/index.html
 _type: Article
 
@@ -51,4 +51,6 @@ purchase books and listen to pop in traffic and raise a glass to this unpredicta
 to realize the chatter of rain and the cough of thunder then the supreme pleasure to dream and wake  
 to the warmth of wordless happiness _oh oh oh_
 
-.
+[.][0]
+
+[0]: null
